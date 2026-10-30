@@ -19,7 +19,7 @@ Je construis des sites, des produits web et des outils qui rendent l’informati
 
 | Projet | Ce que je construis | État |
 | --- | --- | --- |
-| **Équipe d’agents IA connectée** | Des agents Hermes qui se passent les tâches comme une petite agence, avec une validation humaine à chaque étape clé. | En développement |
+| **Équipe d’agents IA connectée** | Des agents Hermes qui travaillent comme une petite agence : surveillance automatique, alertes triées, travail passé au bon collègue avec un brief. Je ne valide que ce qui sort : publier, modifier un site, dépenser. | En développement |
 | **Socle d’automatisation n8n** | Tâches planifiées, rappels, alertes et surveillance regroupés sur mon serveur, les agents gardant le travail de réflexion. | En production, en évolution |
 | **Dashboard marketing multi-sources** | Publicité, formulaires, e-mails, événements et CRM réunis en agrégats, avec un assistant de mise en place de campagne. | En service, en évolution |
 | **Plateforme d’audit SEO et visibilité IA** | Exploration du site, Lighthouse, Search Console, assistant IA, briefs et export PDF. | v1 en service |
