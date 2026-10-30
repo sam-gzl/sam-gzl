@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/sam-gzl">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=474&text=Sam%20Gonzalez" alt="Sam Gonzalez" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontSize=54&height=90&width=474&text=Sam%20Gonzalez" alt="Sam Gonzalez" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=900&height=44&lines=Fondatrice%20de%20Nekketsu%20%C2%B7%20Sites%20web%2C%20acquisition%20et%20automatisation;Produits%20web%2C%20data%20et%20agents%20IA%20supervis%C3%A9s" alt="Fondatrice de Nekketsu · Sites web, acquisition et automatisation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&width=900&height=44&lines=Sites%20web%2C%20acquisition%20et%20automatisation;Produits%20web%2C%20data%20et%20agents%20IA%20supervis%C3%A9s" alt="Sites web, acquisition et automatisation" />
 </p>
 
 ### 🚀 À propos
@@ -72,17 +72,19 @@ Je construis des sites, des produits web et des outils qui rendent l’informati
 ### 🔗 Me retrouver
 
 <p align="left">
+  <a href="https://linkedin.com/in/sam-gonzalez-ia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/ze_chat_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://nekketsu.ai/"><img src="https://img.shields.io/badge/Nekketsu-nekketsu.ai-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nekketsu — nekketsu.ai" /></a>
 </p>
 
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sam-gzl&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&locale=fr" alt="Statistiques GitHub" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sam-gzl&show_icons=true&theme=default&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&bg_color=00000000&count_private=true&locale=fr" alt="Statistiques GitHub" />
 </p>
 
 ### 📈 Contributions
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sam-gzl&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true&custom_title=Contributions%20de%20Sam%20Gonzalez" alt="Graphique des contributions" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sam-gzl&bg_color=00000000&color=000000&line=000000&point=000000&area=true&hide_border=true&custom_title=Contributions%20de%20Sam%20Gonzalez" alt="Graphique des contributions" />
 </p>
